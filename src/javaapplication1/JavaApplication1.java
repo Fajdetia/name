@@ -6,7 +6,7 @@ import java.util.Scanner;
  */
 public class JavaApplication1 {
 
-    /**
+    /** comment on edit
      * @param args the command line arguments
      */
     public static void main(String[] args) {

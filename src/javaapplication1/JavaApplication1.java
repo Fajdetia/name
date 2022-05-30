@@ -3,6 +3,7 @@ import java.util.Scanner;
 /**
  *
  * @author Owner Antun
+ * prac
  */
 public class JavaApplication1 {
 

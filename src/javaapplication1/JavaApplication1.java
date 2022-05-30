@@ -2,7 +2,7 @@ package javaapplication1;
 import java.util.Scanner;
 /**
  *
- * @author Owner
+ * @author Owner Antun
  */
 public class JavaApplication1 {
 
